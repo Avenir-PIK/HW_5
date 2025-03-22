@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("\nНажмите любую клавишу для выхода");
+            Console.ReadKey();
         }
     }
 }
